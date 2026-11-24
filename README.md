@@ -1,6 +1,7 @@
 # Aprendizaje Profundo y Reforzado
 
-[Entregable Proyecto 1 - Fecha Máxima 25 de Noviembre]()
+[Entregable Proyecto 1 - Fecha Máxima 26 de Noviembre](https://drive.google.com/drive/folders/1VK6hAOUd6--NOV-2DIeP45s5paQnTaHL?usp=drive_link)
+[Entregable Proyecto 2 - Fecha Máxima 3 de Diciembre](https://drive.google.com/drive/folders/12R-sxcyx2EIbMnqfip_3O7hCwUtHeKWP?usp=drive_link)
 
 
 ## Descripción del curso
